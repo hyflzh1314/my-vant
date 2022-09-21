@@ -1,5 +1,5 @@
 {
-  "name": "my-vant",
+  "name": "lzh-vant",
   "version": "2.12.50",
   "description": "Mobile UI Components built on Vue",
   "main": "lib/index.js",
@@ -14,9 +14,6 @@
   ],
   "npm": {
     "tag": "latest-v2"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "bootstrap": "yarn || npm i",

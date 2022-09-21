@@ -1,2 +1,2 @@
 # my-vant
-基于vant二次封装
+基于vant2.x二次封装
